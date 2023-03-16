@@ -1,2 +1,2 @@
 # USACO-tester
-Small program to test USACO code :)
+Small program to test USACO code
